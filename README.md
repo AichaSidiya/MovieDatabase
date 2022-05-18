@@ -13,7 +13,6 @@
       - [How to run the program](#how-to-run-the-program) <!--Link to the steps for launching the project-->
     + [Help](#help) <!--Link to Execution-->
   * [Authors](#authors) <!--Link to the Contributors of the project-->
-  * [License](#license) <!--Link to the Liscence of the project-->
   * [Acknowledgments](#acknowledgments) <!--Link to the Acknowlegments-->
 
 ## Purpose
