@@ -62,8 +62,9 @@ The project is a java application program divided into multiple class. The progr
 
 ### Installing
 <!--Steps of Installation-->
-* Download the g++ compiler and intall it. 
+* Download the java version 17.0.1. 
 * Download the zip file and create a folder for it.
+* Add
 
 ### Executing program
 <!--Steps for running the program-->
