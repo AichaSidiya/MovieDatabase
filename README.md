@@ -23,13 +23,21 @@ This poject is a Movie database. The purpose of this project is to build a java 
 ## Description
 <!-- Files of the project-->
 ## Classes
-Inheritance: Actor, Writer, Director and Producer are subclasses of MovieEcosystem.
-Polymorphism: Action class.
-Overriding methods: toString method.
-Overloading methods: overloaded constructors.
-Abstract classes: Person class.
-Exceptions: setName method in Person class, setEmail method in Account class.
-Regular expressions: in the setters of the Account class.
+- Abstract class: 
+  * Account
+    + Admin
+    + User
+  * MovieEcosystem
+    + Actor
+    + Director
+    + Writer
+    + Producer
+  * Action
+    + Reviews
+    + Acts
+    + Writes
+    + Produces
+  * Movie
 
 <!--Header 3 installation and launching the project-->
 ## Getting Started
