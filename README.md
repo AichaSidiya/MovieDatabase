@@ -5,7 +5,8 @@
 - [MovieDatabase](#stars-university) <!--Link to the title of the project-->
   * [Purpose](#purpose) <!--Link to the purpose of the project-->
   * [Description](#description) <!--Link to the description of the project-->
-  * [Classes](#files) <!--Link to the description of the project-->
+  * [Classes](#classes) <!--Link to the classes of the project-->
+    + [UML](#UML)<!--Link to the UML of the project-->
   * [Getting Started](#getting-started) <!--Link to the steps for launching the project-->
     + [Dependencies](#dependencies) <!--Link to Dependencies-->
     + [Installing](#installing) <!--Link to Installation-->
@@ -38,6 +39,10 @@ This poject is a Movie database. The purpose of this project is to build a java 
   + Writes
   + Produces
 - Movie
+### UML 
+
+
+![UML drawio](https://user-images.githubusercontent.com/91727165/180050404-f86eb84e-53b9-4647-8b3d-17d4c27a158a.png)
 
 <!--Header 3 installation and launching the project-->
 ## Getting Started
