@@ -23,21 +23,21 @@ This poject is a Movie database. The purpose of this project is to build a java 
 ## Description
 <!-- Files of the project-->
 ## Classes
-- Abstract class: 
-  * Account
-    + Admin
-    + User
-  * MovieEcosystem
-    + Actor
-    + Director
-    + Writer
-    + Producer
-  * Action
-    + Reviews
-    + Acts
-    + Writes
-    + Produces
-  * Movie
+- Abstract class: Person
+- Account
+  + Admin
+  + User
+- MovieEcosystem
+  + Actor
+  + Director
+  + Writer
+  + Producer
+- Action
+  + Reviews
+  + Acts
+  + Writes
+  + Produces
+- Movie
 
 <!--Header 3 installation and launching the project-->
 ## Getting Started
