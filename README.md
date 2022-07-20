@@ -8,11 +8,9 @@
   * [Classes](#classes) <!--Link to the classes of the project-->
     + [UML](#UML)<!--Link to the UML of the project-->
   * [Getting Started](#getting-started) <!--Link to the steps for launching the project-->
-    + [Dependencies](#dependencies) <!--Link to Dependencies-->
     + [Installing](#installing) <!--Link to Installation-->
     + [Executing program](#executing-program) <!--Link to Execution-->
       - [How to run the program](#how-to-run-the-program) <!--Link to the steps for launching the project-->
-    + [Help](#help) <!--Link to Execution-->
   * [Authors](#authors) <!--Link to the Contributors of the project-->
   * [Acknowledgments](#acknowledgments) <!--Link to the Acknowlegments-->
 
@@ -54,48 +52,18 @@ The project is a java application program divided into multiple class. The progr
 <!--Header 3 installation and launching the project-->
 ## Getting Started
 
-### Dependencies
-
-<!--Link to install the latest version of g++-->
-* You will need to have the latest version of g++ to run the program. g++ 8.1.0 (MinGW), a link is provided.
-* [g++ 8.1.0 (MinGW)](https://sourceforge.net/projects/mingw-w64/files/Toolchains%20targetting%20Win32/Personal%20Builds/mingw-builds/installer/mingw-w64-install.exe/download)
-
 ### Installing
 <!--Steps of Installation-->
 * Download the java version 17.0.1. 
 * Download the zip file and create a folder for it.
-* Add
+* Add the sql table to phpmyadmin.
+* download Eclipse
 
 ### Executing program
 <!--Steps for running the program-->
 #### How to run the program
-* Look for Run Terminal in your search bar
-* Open it and use the:
-<!--commands to run the program "cd" change directory to where your files are-->
-```
-cd 
-```
-command to go to the specified directory.
-* Use
-<!--commands to run the program "make project" compile the program--> 
-```
-make project 
-```
-to compile the all the project files.
-* Than type 
-<!--commands to run the program "project" run and executes program-->
-```
-project 
-```
-to execute and run the program.
 
-### Help
-If the code does not compile use 
-<!--commands to remove object and excevutable files "project"-->
-```
-make clean
-```
-to remove object and excevutable files.
+* Look for signIn.java and run it and you can then run your program.
 
 ## Authors
 <!-- The contributors to the project-->
