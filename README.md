@@ -22,6 +22,13 @@ This poject is a Movie database. The purpose of this project is to build a java 
 
 <!--Header 2 description of the project-->
 ## Description
+
+The project is a java application program divided into multiple class. The program start by displaying a login page in case that the user does not have an account he/she can signup and a new account obejct will be created and the user data will be saved in the database. Afterwards a home page will display all the movies when a user clicks on one of them he/she will get more info about the movie director, description, etc. Lastly, the user can view the movie rating and update it. Other freatures exists in the classs but are not implemented in the GUI, as follows:
+* If a user is created as an admin he can add and delete movies and users. 
+* We also have an action classes that enables the user to preform actions related to the movies such as reviewing the movie, or display the characters, directors etc. of a particular movie or display the movies of a prticular director etc.
+* Lastly we have a driver class called Movie whcih creates movie objects with the needed movie information.
+* The subclass of MovieEcosytem which are actor, director etc contain information related to the actors, directors etc.
+
 <!-- Files of the project-->
 ## Classes
 - Abstract class: Person
