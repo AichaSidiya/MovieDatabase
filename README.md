@@ -76,11 +76,7 @@ The project is a java application program divided into multiple class. The progr
 ## Acknowledgments
 <!-- Insparation files, codes, and general refrences used in writing the code of the project-->
 * [Readme Template](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
-* [4/22, 1:27 AM] Cs Reem Alsharabi 2: https://www.youtube.com/watch?v=or8yeT8OOcg
-* https://github.com/luciodale/cinema-booking-system
-* [4/22, 2:25 AM] Aicha Sidiya: https://github.com/loloDawit/Project-X-MovieStore
-* [4/22, 2:42 AM] Aicha Sidiya: https://uwe.pst.ifi.lmu.de/exampleIMDB.html
-* [4/25, 6:46 PM] Cs Reem Alsharabi 2: https://youtu.be/clKDMtfNNuo
-* [4/27, 8:49 PM] Cs Reem Alsharabi 2: https://youtu.be/t6NQtfokZr8
-* [4/27, 9:12 PM] Cs Reem Alsharabi 2: Wait actually this one is using myPhp admin https://youtu.be/h40mEf7WyMQ
-* [4/28, 11:16 PM] Aicha Sidiya: https://youtu.be/3dlvseTkRHg
+* [IMBD example](https://uwe.pst.ifi.lmu.de/exampleIMDB.html)
+* [Java GUI](https://youtu.be/clKDMtfNNuo)
+* [PHP and Java](https://youtu.be/h40mEf7WyMQ)
+* [JFrames](https://youtu.be/3dlvseTkRHg)
