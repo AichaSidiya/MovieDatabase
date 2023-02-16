@@ -20,7 +20,7 @@
 <!--Purpose of the project-->
 This poject is a Movie database. The purpose of this project is to build a java application to display a list of movies and providing more information on the movies.
 
-<img src="https://github.com/AichaSidiya/MovieDatabase/blob/main/demoMovie.gif" width="1000" height="500"/>
+<img src="https://github.com/AichaSidiya/MovieDatabase/blob/main/demoMovie.gif" width="500" height="500"/>
 
 <!--Header 2 description of the project-->
 ## Description
