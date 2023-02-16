@@ -85,7 +85,7 @@ The project is a java application program divided into multiple class. The progr
 ## Authors
 <!-- The contributors to the project-->
 * [Aicha Sidiya](https://github.com/AichaSidiya)
-* Hanin Alzaher
+* [Hanin Alzaher](https://github.com/hanin-az)
 * [Reem Alsharbi](https://github.com/ReemAlsharabi)
 * Alanoud Alhutami
 
