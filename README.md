@@ -5,12 +5,14 @@
 - [MovieDatabase](#stars-university) <!--Link to the title of the project-->
   * [Purpose](#purpose) <!--Link to the purpose of the project-->
   * [Description](#description) <!--Link to the description of the project-->
+  * [Features](#features) <!--Link to the description of the project-->
   * [Classes](#classes) <!--Link to the classes of the project-->
     + [UML](#UML)<!--Link to the UML of the project-->
   * [Getting Started](#getting-started) <!--Link to the steps for launching the project-->
     + [Installing](#installing) <!--Link to Installation-->
     + [Executing program](#executing-program) <!--Link to Execution-->
       - [How to run the program](#how-to-run-the-program) <!--Link to the steps for launching the project-->
+  * [Build With](#build-with) <!--Link to the Contributors of the project-->
   * [Authors](#authors) <!--Link to the Contributors of the project-->
   * [Acknowledgments](#acknowledgments) <!--Link to the Acknowlegments-->
 
