@@ -2,7 +2,7 @@
 # MovieDatabase
 <!--Content Table-->
 ## Content
-- [MovieDatabase](#stars-university) <!--Link to the title of the project-->
+- [MovieDatabase](#MovieDatabase) <!--Link to the title of the project-->
   * [Purpose](#purpose) <!--Link to the purpose of the project-->
   * [Description](#description) <!--Link to the description of the project-->
   * [Features](#features) <!--Link to the description of the project-->
