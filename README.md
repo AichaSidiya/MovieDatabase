@@ -27,6 +27,13 @@ The project is a java application program divided into multiple class. The progr
 * Lastly we have a driver class called Movie whcih creates movie objects with the needed movie information.
 * The subclass of MovieEcosytem which are actor, director etc contain information related to the actors, directors etc.
 
+## Features
+* View a list of movies
+* Create/Delete account
+* Add a new movie
+* Rate an existing movie
+* Database integration using XAMPP
+
 <!-- Files of the project-->
 ## Classes
 - Abstract class: Person
@@ -65,11 +72,17 @@ The project is a java application program divided into multiple class. The progr
 
 * Look for signIn.java and run it and you can then run your program.
 
+## Built With
+
+- [Java](https://www.java.com/) - Programming language
+- [Swing](https://docs.oracle.com/en/java/javase/14/docs/api/javax/swing/package-summary.html) - Framework for creating graphical user interfaces
+- [XAMPP](https://www.apachefriends.org/index.html) - A software stack that includes Apache, MariaDB, and PHP
+
 ## Authors
 <!-- The contributors to the project-->
-* Aicha Sidiya
+* [Aicha Sidiya](https://github.com/AichaSidiya)
 * Hanin Alzaher
-* Reem Alsharbi
+* [Reem Alsharbi](https://github.com/ReemAlsharabi)
 * Alanoud Alhutami
 
 
