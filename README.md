@@ -1,20 +1,5 @@
 <!--Title-->
 # MovieDatabase
-<!--Content Table-->
-## Content
-- [MovieDatabase](#MovieDatabase) <!--Link to the title of the project-->
-  * [Purpose](#purpose) <!--Link to the purpose of the project-->
-  * [Description](#description) <!--Link to the description of the project-->
-  * [Features](#features) <!--Link to the description of the project-->
-  * [Classes](#classes) <!--Link to the classes of the project-->
-    + [UML](#UML)<!--Link to the UML of the project-->
-  * [Getting Started](#getting-started) <!--Link to the steps for launching the project-->
-    + [Installing](#installing) <!--Link to Installation-->
-    + [Executing program](#executing-program) <!--Link to Execution-->
-      - [How to run the program](#how-to-run-the-program) <!--Link to the steps for launching the project-->
-  * [Build With](#build-with) <!--Link to the Contributors of the project-->
-  * [Authors](#authors) <!--Link to the Contributors of the project-->
-  * [Acknowledgments](#acknowledgments) <!--Link to the Acknowlegments-->
 
 ## Purpose
 <!--Purpose of the project-->
@@ -25,11 +10,9 @@ This poject is a Movie database. The purpose of this project is to build a java 
 <!--Header 2 description of the project-->
 ## Description
 
-The project is a java application program divided into multiple class. The program start by displaying a login page in case that the user does not have an account he/she can signup and a new account obejct will be created and the user data will be saved in the database. Afterwards a home page will display all the movies when a user clicks on one of them he/she will get more info about the movie director, description, etc. Lastly, the user can view the movie rating and update it. Other freatures exists in the classs but are not implemented in the GUI, as follows:
-* If a user is created as an admin he can add and delete movies and users. 
-* We also have an action classes that enables the user to preform actions related to the movies such as reviewing the movie, or display the characters, directors etc. of a particular movie or display the movies of a prticular director etc.
-* Lastly we have a driver class called Movie whcih creates movie objects with the needed movie information.
-* The subclass of MovieEcosytem which are actor, director etc contain information related to the actors, directors etc.
+The project is a java application program divided into multiple class. The program start by displaying a login page in case that the user does not have an account he/she can signup and a new account obejct will be created and the user data will be saved in the database. Afterwards a home page will display all the movies when a user clicks on one of them he/she will get more info about the movie. Other freatures exists in the classs but are not implemented in the GUI, as follows:
+* Admin can add and delete movies and users. 
+* Reviewing the movie/display the characters/directors etc. of a particular movie or display the movies of a prticular director etc (using **action** class)
 
 ## Features
 * View a list of movies
@@ -54,25 +37,26 @@ The project is a java application program divided into multiple class. The progr
   + Acts
   + Writes
   + Produces
-- Movie
+- Movie: driver class
 ### UML 
 
 
 ![UML drawio](https://user-images.githubusercontent.com/91727165/180050404-f86eb84e-53b9-4647-8b3d-17d4c27a158a.png)
 
 <!--Header 3 installation and launching the project-->
-## Getting Started
-
-### Installing
+## Installation
 <!--Steps of Installation-->
+* Clone the repository to your local machine:
+```
+git clone https://github.com/AichaSidiya/MovieDatabase.git
+```
 * Download the java version 17.0.1. 
-* Download the zip file and create a folder for it.
-* Add the sql table to phpmyadmin.
-* download Eclipse
+* Download [xampp](https://www.apachefriends.org/download.html)
+* Import moviedatabse.sql to [phpmyadmin](localhost/phpmyadmin/)
+* Make sure to update the connection to your database.
+* Open the project in your preferred Java IDE.
 
-### Executing program
-<!--Steps for running the program-->
-#### How to run the program
+### How to run the program
 
 * Look for signIn.java and run it and you can then run your program.
 
