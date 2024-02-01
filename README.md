@@ -1,5 +1,5 @@
 <!--Title-->
-# MovieDatabase
+# Movie Database
 
 ## Purpose
 <!--Purpose of the project-->
